@@ -1,2 +1,2 @@
 # project-euler-rust
-Project euler in Rust
+Project Euler in Rust
